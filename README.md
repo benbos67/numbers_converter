@@ -6,6 +6,7 @@ The text represents an amount. Negative amounts are not honoured.
 ## Getting Started
 
 Go to https://benbos67.github.io and enter a number; click [convert]
+
 That's it.
 
 ## Explanation
