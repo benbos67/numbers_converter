@@ -21,5 +21,5 @@ Plus, doesn't it look nice?
 
 ## Tests
 
-There are some tests in the /test directory. The input via the front end is sanitised using a regex filter - 
+There are some tests in the /test directory (download the .zip file in this repo). The input via the front end is sanitised using a regex filter - 
 the number_to_text.dart file has its own validations which are kept simple.
